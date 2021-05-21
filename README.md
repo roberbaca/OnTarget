@@ -9,6 +9,9 @@ CORE MECHANIC: explore en el prototipo a realizar una core mechanic que incluya 
 
 Desarrollado en COCOS CREATOR 2.4.4 y escrito en TypeScript. 
 
+![Uploading image.png…]()
+
+
 En este prototipo utilicé las funcionalidades de Box2D y el motor de físicas que trae el engine para lograr los rebotes. Las paredes son cuerpos estáticos que no responden a la física, mientras que el objeto que se dispara (la bala) es un cuerpo dinámico, afectado por las fuerzas de la simulación (la gravedad se ajustó a cero)
 
 ![image](https://user-images.githubusercontent.com/83043304/119202495-4790c580-ba67-11eb-95a4-0739b00e2d1c.png)
